@@ -1,0 +1,22 @@
+{
+  "name": "MyTest",
+  "version": "0.1.0",
+  "summary": "A short description of MyTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/周卫东/MyTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "周卫东": "zhouweidong@zhangyue.com"
+  },
+  "source": {
+    "git": "https://github.com/周卫东/MyTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyTest/Classes/**/*"
+}
